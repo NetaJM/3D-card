@@ -16,7 +16,7 @@
 }
 
 .frame {
-  border: 10px solid#333;
+  border: 10px solid #333;
   border-radius: 5px;
   transform-style: preserve-3d;
   transform: rotateY(-40deg);
